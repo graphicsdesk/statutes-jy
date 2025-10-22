@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "statutes-jy",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -35,6 +35,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": null
+    "DOC_URL": "https://docs.google.com/document/d/16qpfpas92qpXaZXTGi5Tn6VHSj9vCYIWqau207Ld_JE/edit?usp=sharing"
   }
 }
